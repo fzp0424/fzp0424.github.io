@@ -4,7 +4,7 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
 
 ## **Post-train/Reinforcement Learning in MT**
 
-- `EMNLP 2024` [Ladder: A Model-Agnostic Framework Boosting LLM-based Machine Translation to the Next Level](https://arxiv.org/pdf/2406.15741), **Zhaopeng Feng***, *Ruizhe Chen\**, *Yan Zhang*, et al. [![img](https://img.shields.io/github/stars/fzp0424/MT-Ladder?style=social&label=Code+Stars)](https://github.com/fzp0424/MT-Ladder)
+- `EMNLP 2024` [Ladder: A Model-Agnostic Framework Boosting LLM-based Machine Translation to the Next Level](https://arxiv.org/pdf/2406.15741), **Zhaopeng Feng\***, *Ruizhe Chen\**, *Yan Zhang*, et al. [![img](https://img.shields.io/github/stars/fzp0424/MT-Ladder?style=social&label=Code+Stars)](https://github.com/fzp0424/MT-Ladder)
 - ``Pre-print`` [MT-R1-Zero: Advancing LLM-based Machine Translation via R1-Zero-like Reinforcement Learning](https://arxiv.org/pdf/2504.10160), **Zhaopeng Feng,** *Shaosheng* *Cao,* *Jiahan* *Ren*, et al.  [![](https://img.shields.io/github/stars/fzp0424/MT-R1-Zero?style=social&label=Code+Stars)](https://github.com/fzp0424/MT-R1-Zero)
 - ``Pre-print`` [MT^3: Scaling MLLM-based Text Image Machine Translation via Multi-Task Reinforcement Learning](https://arxiv.org/pdf/2505.19714), **Zhaopeng Feng\*,** *Yupu* *Liang\*,* *Shaosheng* *Cao*, et al.
 
@@ -14,6 +14,6 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
 
 
 ## **Text Embedding/Test-time Alignment/Reasoning** 
-- ``ENMLP 2023 Findings`` [How Well Do Text Embedding Models Understand Syntax?](https://aclanthology.org/2023.findings-emnlp.650/), *Yan Zhang\*,* **Zhaopeng Feng****,* *Zhiyang* *Teng,* *Zuozhu* *Liu,* *Haizhou* *Li*.
+- ``ENMLP 2023 Findings`` [How Well Do Text Embedding Models Understand Syntax?](https://aclanthology.org/2023.findings-emnlp.650/), *Yan Zhang\**, **Zhaopeng Feng\***,* *Zhiyang* *Teng,* *Zuozhu* *Liu,* *Haizhou* *Li*.
 - ``Pre-print`` [MT-RewardTree: A Comprehensive Framework for Advancing LLM-Based Machine Translation via Reward Modeling](https://arxiv.org/pdf/2503.12123), **Zhaopeng Feng\*,** *Jiahan Ren\**, *Jiayuan Su\**, et al.
 - ``Pre-print`` [CP-Router: An Uncertainty-Aware Router Between LLM and LRM](https://arxiv.org/pdf/2505.19970), *Jiayuan Su\*,* *Fulin* *Lin\*,* **Zhaopeng Feng\***, et al. 

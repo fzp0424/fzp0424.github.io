@@ -10,10 +10,10 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
 
 ## **Agent/Multi-Agent in MT**
 - `ACL 2025` [M-MAD: Multidimensional Multi-Agent Debate for Advanced Machine Translation Evaluation](https://arxiv.org/abs/2412.20127), **Zhaopeng Feng\***, *Jiayuan Su\**, *Jiamei Zheng*, et al. [![](https://img.shields.io/github/stars/SU-JIAYUAN/M-MAD?style=social&label=Code+Stars)](https://github.com/SU-JIAYUAN/M-MAD)
-- ``NAACL 2025`` [TEaR: Improving LLM-based Machine Translation with Systematic Self-Refinement](https://arxiv.org/abs/2402.16379), **Zhaopeng Feng\***, *Yan Zhang\**, et al. [![](https://img.shields.io/github/stars/fzp0424/self_correct_mt?style=social&label=Code+Stars)](https://github.com/fzp0424/self_correct_mt)
+- ``NAACL 2025 Findings`` [TEaR: Improving LLM-based Machine Translation with Systematic Self-Refinement](https://arxiv.org/abs/2402.16379), **Zhaopeng Feng\***, *Yan Zhang\**, et al. [![](https://img.shields.io/github/stars/fzp0424/self_correct_mt?style=social&label=Code+Stars)](https://github.com/fzp0424/self_correct_mt)
 
 
 ## **Text Embedding/Test-time Alignment/Reasoning** 
-- ``ENMLP 2023`` [How Well Do Text Embedding Models Understand Syntax?](https://aclanthology.org/2023.findings-emnlp.650/), *Yan Zhang\*,* **Zhaopeng Feng****,* *Zhiyang* *Teng,* *Zuozhu* *Liu,* *Haizhou* *Li*.
+- ``ENMLP 2023 Findings`` [How Well Do Text Embedding Models Understand Syntax?](https://aclanthology.org/2023.findings-emnlp.650/), *Yan Zhang\*,* **Zhaopeng Feng****,* *Zhiyang* *Teng,* *Zuozhu* *Liu,* *Haizhou* *Li*.
 - ``Pre-print`` [MT-RewardTree: A Comprehensive Framework for Advancing LLM-Based Machine Translation via Reward Modeling](https://arxiv.org/pdf/2503.12123), **Zhaopeng Feng\*,** *Jiahan Ren\**, *Jiayuan Su\**, et al.
 - ``Pre-print`` [CP-Router: An Uncertainty-Aware Router Between LLM and LRM](https://arxiv.org/pdf/2505.19970), *Jiayuan Su\*,* *Fulin* *Lin\*,* **Zhaopeng Feng\***, et al. 

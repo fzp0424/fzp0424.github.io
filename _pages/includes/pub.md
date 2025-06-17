@@ -14,6 +14,6 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
 
 
 ## **Text Embedding/Test-time Alignment/Reasoning** 
-- ``ENMLP 2023 Findings`` [How Well Do Text Embedding Models Understand Syntax?](https://aclanthology.org/2023.findings-emnlp.650/), *Yan Zhang\**, **Zhaopeng Feng\***,* *Zhiyang* *Teng,* *Zuozhu* *Liu,* *Haizhou* *Li*.
+- ``ENMLP 2023 Findings`` [How Well Do Text Embedding Models Understand Syntax?](https://aclanthology.org/2023.findings-emnlp.650/), *Yan Zhang\**, **Zhaopeng Feng\***, *Zhiyang* *Teng,* *Zuozhu* *Liu,* *Haizhou* *Li*.
 - ``Pre-print`` [MT-RewardTree: A Comprehensive Framework for Advancing LLM-Based Machine Translation via Reward Modeling](https://arxiv.org/pdf/2503.12123), **Zhaopeng Feng\*,** *Jiahan Ren\**, *Jiayuan Su\**, et al.
 - ``Pre-print`` [CP-Router: An Uncertainty-Aware Router Between LLM and LRM](https://arxiv.org/pdf/2505.19970), *Jiayuan Su\*,* *Fulin* *Lin\*,* **Zhaopeng Feng\***, et al. 

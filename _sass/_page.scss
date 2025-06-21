@@ -430,3 +430,24 @@
     }
   }
 }
+
+/* Clustermap Footer Styles */
+.clustrmaps-footer {
+  text-align: center;
+  margin: 1em 0;
+  
+  #clustrmaps-container {
+    display: inline-block;
+    width: 300px;
+    height: 190px;
+    overflow: hidden;
+    margin: 0 auto;
+    
+    iframe {
+      width: 300px !important;
+      height: 190px !important;
+      border: none;
+      border-radius: 4px;
+    }
+  }
+}

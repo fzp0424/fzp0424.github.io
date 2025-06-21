@@ -444,7 +444,7 @@
   /* 让地图容器本身居中，并设置一个最大宽度，防止在大屏幕上过宽 */
   margin: 0 auto;
   width: 100%; /* 宽度占满父容器 */
-  max-width: 450px; /* 您可以根据喜好调整这个最大宽度值 */
+  max-width: 300px; /* 您可以根据喜好调整这个最大宽度值 */
 
   /* 移除之前固定的 height 和 overflow */
 }
@@ -455,5 +455,5 @@
   border-radius: 4px;   /* 保持圆角，可选 */
   width: 100% !important; /* 宽度强制占满容器 */
   height: auto; /* 高度自动调整 */
-  min-height: 250px; /* 设置一个最小高度，防止塌陷 */
+  min-height: 200px; /* 设置一个最小高度，防止塌陷 */
 }

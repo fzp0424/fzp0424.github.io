@@ -410,3 +410,19 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.page__clustrmaps {
+  margin-top: 2em;
+  padding: 1em 0;
+  border-top: 1px solid $border-color;
+  
+  #clustrmaps-container {
+    text-align: center;
+    min-height: 300px;
+    
+    iframe {
+      border: none;
+      border-radius: 4px;
+    }
+  }
+}

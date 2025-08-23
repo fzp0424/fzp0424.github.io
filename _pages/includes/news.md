@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.08*: 🎉 Two papers were accepted to EMNLP 2025 Findings.
 - *2025.05*: 🎉 One paper was accepted to ACL 2025.
 - *2025.01*: 📕 My academic sharing account on Xiaohongshu (Rednote) reached over 10,000 followers.
 - *2025.01*: 🎉 One paper was accepted to NAACL 2025 Findings.

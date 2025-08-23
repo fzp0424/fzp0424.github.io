@@ -1,4 +1,5 @@
 # 🕊️Interesting Experience
+- *2025.07* On vacation in Austria and Greece.
 - *2025.06* Certified as a National Level 2 Basketball Referee.
 - *2024.07* On vacation in Spain and Portugal.
 - *2024.01* Certified as a National Level 3 Basketball Referee.

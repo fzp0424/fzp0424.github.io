@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "CV"
-    url: "/_pages/includes/20250617简历-EN.pdf"
+    url: "/_pages/includes/Resume-EN.pdf"
 
   - title: "News"
     url: "/#-news"

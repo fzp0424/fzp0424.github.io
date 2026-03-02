@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.02*: 🎓 Received a PhD offer from NUS SoC and was honored to be nominated for the AISG PhD Fellowship.
 - *2025.11*: 🎉 One papers was accepted to AAAI Oral.
 - *2025.10*: 🏆 Awarded National Scholarship.
 - *2025.08*: 🎉 Two papers were accepted to EMNLP 2025 Findings.

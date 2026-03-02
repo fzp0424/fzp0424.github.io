@@ -17,6 +17,6 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
 - ``ENMLP 2023 Findings`` [How Well Do Text Embedding Models Understand Syntax?](https://aclanthology.org/2023.findings-emnlp.650/), *Yan Zhang\**, **Zhaopeng Feng\***, *Zhiyang* *Teng,* *Zuozhu* *Liu,* *Haizhou* *Li*.
 - ``AAAI 2026 (Oral)`` [CP-Router: An Uncertainty-Aware Router Between LLM and LRM](https://arxiv.org/pdf/2505.19970), *Jiayuan Su\*,* *Fulin* *Lin\*,* **Zhaopeng Feng\***, et al. 
 
-- ``CVPR 2026`` [CompBench: Benchmarking Complex Instruction-guided Image Editing](https://arxiv.org/pdf/2505.19970), *Bohan Jia\*,* *Wenxuan Huang\*,* *Yuntian Tang\*,* et al. 
+- ``CVPR 2026`` [CompBench: Benchmarking Complex Instruction-guided Image Editing](https://arxiv.org/pdf/2505.19970), *Bohan Jia\*,* *Wenxuan Huang\*,* *Yuntian Tang*, et al. 
 
 - ``Pre-print`` [Med-U1: Incentivizing Unified Medical Reasoning in LLMs via Large-scale Reinforcement Learning](https://arxiv.org/pdf/2506.12307), *Xiaotian Zhang\*,* *Yuan* *Wang\*,* **Zhaopeng Feng\*,** et al.

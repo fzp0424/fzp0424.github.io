@@ -6,11 +6,14 @@
 
 
 # 💻 Internships
-- *2025.03 - 2025.06*, Xiaohongshu (Rednote), advised by [Shaosheng Cao](https://scholar.google.com/citations?user=ZF0ntl4AAAAJ), Shanghai.
+- *2025.11 - 至今*, Alibaba (Tongyi Lab), advised by [Xinyu Wang](https://scholar.google.com/citations?user=G33Cf7gAAAAJ), Hangzhou.
 
-- *2024.11 - 2025.03*, Alibaba, advised by [Yu Cao](https://scholar.google.com/citations?user=lcTd7rkAAAAJ), Hangzhou.
+- *2025.03 - 2025.09*, Xiaohongshu (Rednote), advised by [Shaosheng Cao](https://scholar.google.com/citations?user=ZF0ntl4AAAAJ), Shanghai.
+
+- *2024.11 - 2025.03*, Alibaba (Quark, now the Qwen Business Group), advised by [Yu Cao](https://scholar.google.com/citations?user=lcTd7rkAAAAJ), Hangzhou.
+
 
   
 
 
-### ⏱️ Last Update: 2025/11/16
+### ⏱️ Last Update: 2026/03/02

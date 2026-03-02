@@ -12,8 +12,11 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
 - ``NAACL 2025 Findings`` [TEaR: Improving LLM-based Machine Translation with Systematic Self-Refinement](https://arxiv.org/abs/2402.16379), **Zhaopeng Feng\***, *Yan Zhang\**, et al. [![](https://img.shields.io/github/stars/fzp0424/self_correct_mt?style=social&label=Code+Stars)](https://github.com/fzp0424/self_correct_mt)
 
 
-## **Text Embedding/Test-time Alignment/Reasoning** 
+## **Text Embedding/Reasoning/Multimodal** 
 - ``ENMLP 2025 Findings`` [MT-RewardTree: A Comprehensive Framework for Advancing LLM-Based Machine Translation via Reward Modeling](https://arxiv.org/pdf/2503.12123), **Zhaopeng Feng\*,** *Jiahan Ren\**, *Jiayuan Su\**, et al.
 - ``ENMLP 2023 Findings`` [How Well Do Text Embedding Models Understand Syntax?](https://aclanthology.org/2023.findings-emnlp.650/), *Yan Zhang\**, **Zhaopeng Feng\***, *Zhiyang* *Teng,* *Zuozhu* *Liu,* *Haizhou* *Li*.
 - ``AAAI 2026 (Oral)`` [CP-Router: An Uncertainty-Aware Router Between LLM and LRM](https://arxiv.org/pdf/2505.19970), *Jiayuan Su\*,* *Fulin* *Lin\*,* **Zhaopeng Feng\***, et al. 
+
+- ``CVPR 2026`` [CompBench: Benchmarking Complex Instruction-guided Image Editing](https://arxiv.org/pdf/2505.19970), *Bohan Jia\*,* *Wenxuan Huang\*,* *Yuntian Tang\*,* et al. 
+
 - ``Pre-print`` [Med-U1: Incentivizing Unified Medical Reasoning in LLMs via Large-scale Reinforcement Learning](https://arxiv.org/pdf/2506.12307), *Xiaotian Zhang\*,* *Yuan* *Wang\*,* **Zhaopeng Feng\*,** et al.

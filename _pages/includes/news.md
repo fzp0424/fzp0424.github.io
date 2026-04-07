@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.04*: 🎉 One paper was accepted to ACL 2026.
 - *2026.02*: 🎓 Received a PhD offer from NUS SoC and was honored to be nominated for the AISG PhD Fellowship.
 - *2025.11*: 🎉 One papers was accepted to AAAI Oral.
 - *2025.10*: 🏆 Awarded National Scholarship.

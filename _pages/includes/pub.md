@@ -11,7 +11,7 @@ My full paper list is shown at [google scholar](https://scholar.google.com/citat
 - `ACL 2025` [M-MAD: Multidimensional Multi-Agent Debate for Advanced Machine Translation Evaluation](https://arxiv.org/abs/2412.20127), **Zhaopeng Feng\***, *Jiayuan Su\**, *Jiamei Zheng*, et al. [![](https://img.shields.io/github/stars/SU-JIAYUAN/M-MAD?style=social&label=Code+Stars)](https://github.com/SU-JIAYUAN/M-MAD)
 - ``NAACL 2025 Findings`` [TEaR: Improving LLM-based Machine Translation with Systematic Self-Refinement](https://arxiv.org/abs/2402.16379), **Zhaopeng Feng\***, *Yan Zhang\**, et al. [![](https://img.shields.io/github/stars/fzp0424/self_correct_mt?style=social&label=Code+Stars)](https://github.com/fzp0424/self_correct_mt)
 
-- ``Pre-print`` [AgentSwing: Adaptive Parallel Context Management Routing for Long-Horizon Web Agents](https://arxiv.org/pdf/2603.27490), **Zhaopeng Feng\***, *Liangcai* *Su,* *Zhen* *Zhang,* *Xinyu* *Wang*. et al.
+- ``Pre-print`` [AgentSwing: Adaptive Parallel Context Management Routing for Long-Horizon Web Agents](https://arxiv.org/pdf/2603.27490), **Zhaopeng Feng\***, *Liangcai* *Su,* *Zhen* *Zhang,* *Xinyu* *Wang*, et al.
 
 
 ## **Text Embedding/Reasoning/Multimodal** 

@@ -2,8 +2,8 @@
 # 🔥 News
 <div class="news-scroll" tabindex="0" aria-label="News archive" markdown="1">
 
+- *2026.05*: 🏆 Awarded President Graduate Fellowship, NUS.
 - *2026.04*: 🎉 One paper was accepted to ACL 2026.
-- *2026.03*: 🎓 Obtained Master's degree from Zhejiang University, and was selected as Outstanding Graduates of Zhejiang University and Outstanding Graduates of Zhejiang Province.
 - *2026.02*: 🎓 Received a PhD offer from NUS SoC and was honored to be nominated for the AISG PhD Fellowship.
 - *2025.11*: 🎉 One papers was accepted to AAAI Oral.
 - *2025.10*: 🏆 Awarded National Scholarship.

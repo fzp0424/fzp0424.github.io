@@ -1,3 +1,11 @@
+# 🏆Honors
+- *2026* President Graduate Fellowship, National University of Singapore.
+- *2026* Outstanding Graduates, Zhejiang Province & Zhejiang University.
+- *2025* National Scholarship, Ministry of Education of the People's Republic of China.
+- *2023* Outstanding Graduates, Harbin Institute of Technology.
+
+
+<span class='anchor' id='experience'></span>
 # 🕊️Interesting Experience
 - *2025.07* On vacation in Austria and Greece.
 - *2025.06* Certified as a National Level 2 Basketball Referee.

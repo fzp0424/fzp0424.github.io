@@ -1,6 +1,8 @@
 ---
 ---
 
+@charset "utf-8";
+
 /*
  *    Minimal Mistakes Jekyll Theme
  *
@@ -87,7 +89,7 @@
 
 }
 
-$scroll_offset : 2em;
+$scroll_offset : 4.25em;
 h1:before, .anchor:before { 
     content: ''; 
     display: block; 
@@ -106,4 +108,61 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+.news-scroll {
+    max-height: 20rem;
+    overflow-y: auto;
+    margin: .75rem 0 1.5rem;
+    padding: .7rem 1rem .7rem .25rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    background: #fff;
+    scrollbar-gutter: stable;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+
+    ul {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    li:last-child {
+        margin-bottom: 0;
+    }
+
+    &:focus {
+        outline: 2px solid rgba(0, 54, 159, .25);
+        outline-offset: 3px;
+    }
+
+    &::-webkit-scrollbar {
+        width: 8px;
+    }
+
+    &::-webkit-scrollbar-track {
+        background: #f1f5f9;
+        border-radius: 999px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background: #94a3b8;
+        border-radius: 999px;
+    }
+
+    &::-webkit-scrollbar-thumb:hover {
+        background: #64748b;
+    }
+}
+
+@include breakpoint($small) {
+    .news-scroll {
+        max-height: 16rem;
+    }
+}
+
+@include breakpoint($medium) {
+    .news-scroll {
+        max-height: 12rem;
+    }
 }

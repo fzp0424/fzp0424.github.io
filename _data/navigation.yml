@@ -7,16 +7,16 @@ main:
     url: "/_pages/includes/Resume-EN.pdf"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Interesting Experience"
-    url: "/#-exps"
+    url: "/#experience"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#internships"

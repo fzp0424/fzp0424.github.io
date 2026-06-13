@@ -1,11 +1,13 @@
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
-- *2023.09 - 2026.03*, Master, Zhejiang University, Hangzhou.
-- *2019.09 - 2023.06*, Undergraduate, Harbin Institute of Technology (Shenzhen), Shenzhen.
+- *2023 - 2026*, Master, Zhejiang University, Hangzhou.
+- *2019 - 2023*, Undergraduate, Harbin Institute of Technology (Shenzhen), Shenzhen.
 
 
+<span class='anchor' id='internships'></span>
 # 💻 Internships
-- *2025.11 - Now*, Alibaba (Tongyi Lab), advised by [Xinyu Wang](https://scholar.google.com/citations?user=G33Cf7gAAAAJ), Hangzhou.
+- *2025.11 - 2026.06*, Alibaba (Tongyi Lab), advised by [Xinyu Wang](https://scholar.google.com/citations?user=G33Cf7gAAAAJ), Hangzhou.
 
 - *2025.03 - 2025.10*, Xiaohongshu (Rednote), advised by [Shaosheng Cao](https://scholar.google.com/citations?user=ZF0ntl4AAAAJ), Shanghai.
 
@@ -13,4 +15,4 @@
 
 
   
-### ⏱️ Last Update: 2026/04/07
+### ⏱️ Last Update: 2026/05/31

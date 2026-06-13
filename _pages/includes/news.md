@@ -1,6 +1,9 @@
+<span class='anchor' id='news'></span>
 # 🔥 News
+<div class="news-scroll" tabindex="0" aria-label="News archive" markdown="1">
+
 - *2026.04*: 🎉 One paper was accepted to ACL 2026.
-- *2026.03*: 🎓 Obtained Master's degree from Zhejiang University, and was selected as Outstanding Graduate of Zhejiang University and Outstanding Graduate of Zhejiang Province.
+- *2026.03*: 🎓 Obtained Master's degree from Zhejiang University, and was selected as Outstanding Graduates of Zhejiang University and Outstanding Graduates of Zhejiang Province.
 - *2026.02*: 🎓 Received a PhD offer from NUS SoC and was honored to be nominated for the AISG PhD Fellowship.
 - *2025.11*: 🎉 One papers was accepted to AAAI Oral.
 - *2025.10*: 🏆 Awarded National Scholarship.
@@ -12,3 +15,5 @@
 - *2024.07*: 🏆 [Our team won 2nd Place in the KDD Cup 2024 Reasoning Track](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms/problems/amazon-kdd-cup-24-shopping-knowledge-reasoning) (Best Student Team Award; Team Lead).
 - *2023.09*: 🎉 One paper was accepted to EMNLP 2023 Findings.
 - *2023.06*: 🎓 Obtained Bachelor's degree from HITSZ, and was selected as Outstanding Graduate.
+
+</div>

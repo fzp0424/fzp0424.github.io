@@ -27,9 +27,9 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    margin-top: 1.25em;
     max-width: 100%;
-    padding: 0 1em 2em;
+    padding: 0 1em 1.5em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -91,11 +91,29 @@
   }
 }
 
-// .clustrmaps-footer {
-//   margin-top: 1em;
-//   text-align: center;
-// }
+.visitor-map-footer {
+  display: flex;
+  justify-content: center;
+  margin: 1em auto 0;
+}
 
-// #clustrmaps-container {
-//   margin: 0 auto;
-// }
+#visitor-map-container {
+  width: 220px;
+  max-width: 100%;
+}
+
+#visitor-map-container a {
+  display: block;
+}
+
+#visitor-map-container iframe,
+#visitor-map-container img,
+#visitor-map-container canvas,
+#visitor-map-container object {
+  display: block;
+  width: 100% !important;
+  max-width: 100%;
+  height: auto !important;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
